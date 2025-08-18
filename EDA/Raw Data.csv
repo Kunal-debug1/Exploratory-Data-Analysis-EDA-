@@ -1,0 +1,11 @@
+EmployeeID,Name,Age,Department,JoinDate,Salary,Mood
+101,Alice,25,Sales,2015-03-01,55000.0,Happy
+102,Bob,29,HR,2016/07/15,60000.0,Sad
+103,Charlie,,hr,2017-05-23,58000.0,Neutral
+104,David,45,Tech,N/A,,happy
+105,Eve,34,Tech,2019-11-30,62000.0,SAD
+106,Frank,30,Sales,2020-01-10,59000.0,neutral
+107,Grace,28,,2021-06-25,61000.0,HAPPY
+107,Grace,28,Sales,2021-06-25,61000.0,HAPPY
+108,Heidi,38,tech,2022-08-09,64000.0,
+109,Ivan,Thirty,HR,08-12-2023,62000.0,sad
